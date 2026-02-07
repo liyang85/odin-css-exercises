@@ -9,7 +9,7 @@ body {
   display: flex;
   flex-direction: row;
   margin-top: 32px;
-  padding: 0 52px;
+  justify-content: center;
   gap: 52px;
 }
 
